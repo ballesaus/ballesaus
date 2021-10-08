@@ -1,11 +1,11 @@
 <!-- This code creates a simple dropdown -->
 <details>
-<summary>langemann</summary>
+<summary>hax</summary>
 <!-- The fenced code block below must be separated by
      blank lines on either side to work correctly -->
 
 ```javascript
-avascript: let searchInput = document.querySelector("[name='q']"); searchInput.focus(); searchInput.select();"
+avascript: let searchInput = document.querySelector("[name='q']"); searchInput.focus(); searchInput.select();
 ```
 
 </details>
