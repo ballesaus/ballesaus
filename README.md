@@ -1,9 +1,9 @@
-<h1>ballesaus skills</h1>
-javascript<br>
-c#<br>
-lua<br>
-python<br><br><br><br><br><br><br><br><p align="center">DO NOT PRESS</p><br>
+[![](https://skillicons.dev/icons?i=cs,js,lua,py,php&theme=dark)](about:blank)<br>
+[![](https://skillicons.dev/icons?i=html,css,nodejs,nginx&theme=dark)](about:blank)
+
+<br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br>
 <div align="center">
+  <p>DON'T PRESS!</p>
 <a href="https://t.ly/Nur8M">
 <img src="https://lh3.googleusercontent.com/OLhI3-eElMa6MbkE4Q82QvvVpOJX0kzUcJzV5tbGUHQPD5iTBe7COYNu853ZM1dfxIZg5z4VWsx3Enx1KgYX4icGtQ=s64">
 </a>
