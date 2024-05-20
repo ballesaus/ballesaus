@@ -1,7 +1,6 @@
-[![](https://skillicons.dev/icons?i=cs,js,lua,py,php&theme=dark)](about:blank)<br>
-[![](https://skillicons.dev/icons?i=html,css,nodejs,nginx&theme=dark)](about:blank)
+[![](https://skillicons.dev/icons?i=cs,js,lua,py,php,html,css,nodejs,nginx&theme=dark)](about:blank)
 
-<br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br>
+<br><br><br><br><br><br><br><br><br><br><br><br><br><br>
 <div align="center">
   <p>DON'T PRESS!</p>
 <a href="https://t.ly/Nur8M">
